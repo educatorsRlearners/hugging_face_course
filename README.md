@@ -2,7 +2,7 @@
 |:--:|
 |<b>Image Courtesy of</b> [🤗](https://huggingface.co/course/chapter1/1?fw=pt)|
 
-Welcome to my repo where I will be keeping my codethrough for HuggingFace's [course](https://huggingface.co/course/chapter0/1?fw=pt) on NLP. 
+Welcome to my repo where I will be keeping my codethroughs for HuggingFace's [course](https://huggingface.co/course/chapter0/1?fw=pt) on NLP. 
 
 > _I've never heard of "codethough?" What does it mean?_
 
