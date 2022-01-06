@@ -10,4 +10,6 @@ Welcome to my repo where I will be keeping my codethrough for HuggingFace's [cou
 
 > _Why is this word necessary?_
 
-Because just reading/coding along with the examples isn't enough: we do not learn by doing but by reflecting about what he have done [[source](https://www.quora.com/What-is-the-source-of-this-famous-quote-attributed-to-John-Dewey-We-do-not-learn-from-an-experience-We-learn-from-reflecting-on-an-experience)].
+Because just reading/coding along with the examples isn't enough: we do not learn by doing but by reflecting on what he have done [[source](https://www.quora.com/What-is-the-source-of-this-famous-quote-attributed-to-John-Dewey-We-do-not-learn-from-an-experience-We-learn-from-reflecting-on-an-experience)].
+
+As such, this repo will be a collection of workbooks containing code (of course) but also my reflections/notes about the code/concepts presented so that I can more fully engage with not only the libraries and methods presented, but also the concepts and ideas which underpin them. 
